@@ -370,24 +370,16 @@ input:-webkit-autofill:focus {
 .header-area {
     background: #000000 url('images/aclrendering.jpg') no-repeat scroll center center / cover;
 }
-
+/*
 .anlge-bg {
     background: url('images/angle-bg.png') no-repeat scroll center bottom -120px / 100% auto;
 }
-
+*/
 .overlay {
     position: relative;
 }
 
-.overlay:before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    opacity: 0.8
-}
+
 
 .header-text h2 {
     margin-bottom: 20px;
