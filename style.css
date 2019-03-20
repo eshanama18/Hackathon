@@ -360,7 +360,12 @@ input:-webkit-autofill:focus {
     background-color: #138fc2;
 }
 
-
+.sponsorheader{
+  display: block;
+  text-align: center;
+  font-size: 75px;
+  margin-bottom: 200px;
+}
 
 /**
 *Header-area
