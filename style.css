@@ -370,6 +370,9 @@ input:-webkit-autofill:focus {
 .header-area {
     background: #000000 url('images/aclrendering.jpg') no-repeat scroll center center / cover;
 }
+.headerimage{
+  height: 100px;
+}
 /*
 .anlge-bg {
     background: url('images/angle-bg.png') no-repeat scroll center bottom -120px / 100% auto;
