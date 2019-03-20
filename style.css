@@ -580,6 +580,12 @@ input:-webkit-autofill:focus {
 /***
 *Testimonial-Page
 ***/
+
+#image.schedule{
+  display: block;
+  height = 100%;
+  width = 500%;
+}
 .testimonial-area {
   background: url('images/parallax-7.jpg') no-repeat scroll center center / cover;
   position: relative;
