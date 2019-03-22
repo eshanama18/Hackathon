@@ -3546,67 +3546,6 @@ html.no-scroll body {
     overflow-y: hidden
 }
 
-hr {
-    border: 0;
-    height: 0;
-    background: 0 0;
-    display: block
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    margin-top: 0;
-    margin-bottom: 0;
-    text-rendering: optimizeLegibility
-}
-
-.p,
-a,
-blockquote,
-button,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-li,
-p {
-    font-family: inherit;
-    font-weight: inherit;
-    line-height: inherit;
-    color: inherit;
-    font-size: inherit
-}
-
-blockquote,
-hr,
-p,
-ul {
-    padding: 0;
-    margin: 0
-}
-
-a {
-    text-decoration: none
-}
-
-sup {
-    line-height: 0;
-    font-size: .45em
-}
-
-input,
-select,
-textarea {
-    margin: 0;
-    padding: 0;
-    font-family: 'Sailec', 'Helvetica', 'Arial', sans-serif
-}
 
 .custom-iframe-vr-style>iframe {
     position: absolute;
