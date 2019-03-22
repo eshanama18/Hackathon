@@ -2,6 +2,10 @@
 
 \#Customer Changes
 
--   Add AcademiesHacks logo to upper left
--   Add background photo
--   Add sponsors in place of easy to use, add links
+- To Be Completed
+    - footer
+    - 
+- Time to Complete
+    - By Monday
+- Help to Make Changes
+   - None
