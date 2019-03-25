@@ -472,6 +472,7 @@ body {
 /***
 *Team-Section
 ***/
+<<<<<<< HEAD
 
 /***
 *Testimonial-Page
@@ -524,11 +525,14 @@ body {
 .testimonials.owl-carousel .owl-controls .owl-nav {
     text-align: center;
 }
+=======
+>>>>>>> a72dc4cf7d571064728ec56febdd6c8006c8b8ae
 
 
 /***
 *Price-area
 ***/
+<<<<<<< HEAD
 
 .price-area {
     background: url('images/parallax-6.jpg') no-repeat scroll center center / cover
@@ -629,6 +633,8 @@ body {
     -webkit-transform: translate(-50%) rotate(0deg);
     transform: translate(-50%) rotate(0deg)
 }
+=======
+>>>>>>> a72dc4cf7d571064728ec56febdd6c8006c8b8ae
 
 
 
@@ -854,6 +860,7 @@ preloader
 
 .inline-block {
   display: inline-block
+<<<<<<< HEAD
 }
 
 .flexbox {
@@ -921,6 +928,75 @@ preloader
   margin-top: 2rem
 }
 
+=======
+}
+
+.flexbox {
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex
+}
+
+.flex-grow-1 {
+  -webkit-flex-grow: 1;
+  flex-grow: 1
+}
+
+.text-shortest {
+  font-size: 12px
+}
+
+.text-shorter {
+  font-size: 16px
+}
+
+.height-full {
+  height: 100%
+}
+
+.line-height-perfect {
+  line-height: 1em
+}
+
+.line-height-tightest {
+  line-height: 1.1875em
+}
+
+.line-height-tight {
+  line-height: 1.525em
+}
+
+.margin-vertical-larger {
+  margin-top: 12rem;
+  margin-bottom: 12rem
+}
+
+.margin-horizontal-auto {
+  margin-left: auto;
+  margin-right: auto
+}
+
+.margin-bottom-thinnest {
+  margin-bottom: 1rem
+}
+
+.margin-left-thinner {
+  margin-left: 2rem
+}
+
+.margin-left-minus-thinner {
+  margin-left: -2rem
+}
+
+.margin-left-minus-broad {
+  margin-left: -5rem
+}
+
+.margin-top-thinner {
+  margin-top: 2rem
+}
+
+>>>>>>> a72dc4cf7d571064728ec56febdd6c8006c8b8ae
 .margin-top-broader {
   margin-top: 6rem
 }
@@ -1081,6 +1157,7 @@ button {
   flex-basis: auto;
   min-height: 0;
   min-width: 0
+<<<<<<< HEAD
 }
 
 @media screen and (-webkit-min-device-pixel-ratio:1.5) {
@@ -1370,12 +1447,306 @@ html:not(.mobile) .markdown p>a:hover {
 
 html:not(.mobile) .bg-color-black-on-hover:hover {
   background-color: #181818
+=======
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:1.5) {
+  html {
+    font-size: 31.25%
+  }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:1.5) and screen and (min-width:768px) {
+  html {
+    font-size: 37.5%
+  }
+}
+
+@media screen and (min-device-pixel-ratio:1.5) {
+  html {
+    font-size: 31.25%
+  }
+}
+
+@media screen and (min-device-pixel-ratio:1.5) and screen and (min-width:768px) {
+  html {
+    font-size: 37.5%
+  }
+}
+
+@media screen and (min-width:768px) {
+  html {
+    font-size: 50%
+  }
+}
+
+@media screen and (min-width:1280px) {
+  html {
+    font-size: 62.5%
+  }
+}
+
+.border-radius-full {
+  border-radius: 100%
+}
+
+.border-solid {
+  border-style: solid
+}
+
+.border-bottom-solid {
+  border-bottom-style: solid
+}
+
+.border-slimmest {
+  border-width: 1px
+}
+
+.border-slimmer {
+  border-width: 2px
+}
+
+.flex-center {
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center
+}
+
+.flex-center {
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center
+}
+
+.flex-justify-space-between {
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: space-between;
+  justify-content: space-between
+}
+
+.flex-wrap {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap
+}
+
+.font-base {
+  font-family: 'Sailec', 'Helvetica', 'Arial', sans-serif
+}
+
+.font-weight-light {
+  font-weight: 300
+}
+
+.font-weight-medium {
+  font-weight: 500
+}
+
+.square-broadest {
+  width: 8rem;
+  height: 8rem
+}
+
+.text-uppercase {
+  text-transform: uppercase
+}
+
+.fill {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0
+}
+
+.transition-color {
+  -webkit-transition-property: color;
+  -moz-transition-property: color;
+  -ms-transition-property: color;
+  -o-transition-property: color;
+  transition-property: color
+}
+
+.transition-duration-fastest {
+  -webkit-transition-duration: 150ms;
+  -moz-transition-duration: 150ms;
+  -ms-transition-duration: 150ms;
+  -o-transition-duration: 150ms;
+  transition-duration: 150ms
+}
+
+.transition-duration-faster {
+  -webkit-transition-duration: 200ms;
+  -moz-transition-duration: 200ms;
+  -ms-transition-duration: 200ms;
+  -o-transition-duration: 200ms;
+  transition-duration: 200ms
+}
+
+.transition-ease-out-quad {
+  -webkit-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
+  -moz-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
+  -ms-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
+  -o-transition-timing-function: cubic-bezier(.25, .46, .45, .94);
+  transition-timing-function: cubic-bezier(.25, .46, .45, .94)
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url(/workspace/assets/fonts/sailec-light.eot);
+  src: local('?'), url(/workspace/assets/fonts/sailec-light.woff) format('woff'), url(/workspace/assets/fonts/sailec-light.ttf) format('truetype'), url(/workspace/assets/fonts/sailec-light.svg#Sailec) format('svg');
+  font-weight: 300;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url(/workspace/assets/fonts/sailec-lightitalic.eot);
+  src: local('?'), url(/workspace/assets/fonts/sailec-lightitalic.woff) format('woff'), url(/workspace/assets/fonts/sailec-lightitalic.ttf) format('truetype'), url(/workspace/assets/fonts/sailec-lightitalic.svg#Sailec) format('svg');
+  font-weight: 300;
+  font-style: italic
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url(/workspace/assets/fonts/sailec-medium.eot);
+  src: local('?'), url(/workspace/assets/fonts/sailec-medium.woff) format('woff'), url(/workspace/assets/fonts/sailec-medium.ttf) format('truetype'), url(/workspace/assets/fonts/sailec-medium.svg#Sailec) format('svg');
+  font-weight: 500;
+  font-style: normal
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url(/workspace/assets/fonts/sailec-mediumitalic.eot);
+  src: local('?'), url(/workspace/assets/fonts/sailec-mediumitalic.woff) format('woff'), url(/workspace/assets/fonts/sailec-mediumitalic.ttf) format('truetype'), url(/workspace/assets/fonts/sailec-mediumitalic.svg#Sailec) format('svg');
+  font-weight: 500;
+  font-style: italic
+}
+
+html {
+  min-height: 100%;
+  height: 100%;
+  overflow: visible
+}
+
+html body {
+  -webkit-font-feature-settings: "hist";
+  min-height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  color: #181818;
+  font-family: 'Sailec', 'Helvetica', 'Arial', sans-serif
+}
+
+html body::selection {
+  background-color: #181818
+}
+
+html body::-moz-selection {
+  background-color: #181818
+}
+
+@media screen and (min-width:768px) {
+
+  .square-broader-from-xs {
+    width: 6rem;
+    height: 6rem
+  }
+}
+
+@media screen and (min-width:1024px) {
+  .square-broad-from-sm {
+    width: 5rem;
+    height: 5rem
+  }
+}
+
+.transition-color-bg-color {
+  -webkit-transition-property: color, background-color;
+  -moz-transition-property: color, background-color;
+  -ms-transition-property: color, background-color;
+  -o-transition-property: color, background-color;
+  transition-property: color, background-color
+}
+
+.markdown a,
+.markdown p {
+  font-family: 'Sailec', 'Helvetica', 'Arial', sans-serif;
+  line-height: 1.1875em;
+  font-weight: 500;
+  font-size: 18px;
+  margin-bottom: 3rem;
+  margin-top: 5rem
+}
+
+.markdown a,
+.markdown p {
+  font-size: 16px
+}
+
+.markdown a,
+.markdown p {
+  line-height: 1.525em;
+  font-weight: 300;
+  font-size: 12px;
+  margin-top: 3rem
+}
+
+@media screen and (min-width:768px) {
+
+  .markdown a,
+  .markdown p {
+    font-size: 18px
+  }
+}
+
+@media screen and (min-width:1600px) {
+
+  .markdown a,
+  .markdown p {
+    font-size: 21px
+  }
+>>>>>>> a72dc4cf7d571064728ec56febdd6c8006c8b8ae
+}
+
+.markdown p>a {
+  color: #181818;
+  border-bottom: 1px solid;
+  margin: 0;
+  -webkit-transition: color 200ms cubic-bezier(.25, .46, .45, .94);
+  -moz-transition: color 200ms cubic-bezier(.25, .46, .45, .94);
+  -ms-transition: color 200ms cubic-bezier(.25, .46, .45, .94);
+  -o-transition: color 200ms cubic-bezier(.25, .46, .45, .94);
+  transition: color 200ms cubic-bezier(.25, .46, .45, .94)
+}
+
+<<<<<<< HEAD
+=======
+html:not(.mobile) .markdown p>a:hover {
+  color: #a5a5a5;
+  -webkit-transition: color 150ms cubic-bezier(.25, .46, .45, .94);
+  -moz-transition: color 150ms cubic-bezier(.25, .46, .45, .94);
+  -ms-transition: color 150ms cubic-bezier(.25, .46, .45, .94);
+  -o-transition: color 150ms cubic-bezier(.25, .46, .45, .94);
+  transition: color 150ms cubic-bezier(.25, .46, .45, .94)
+}
+
+.markdown>:first-child {
+  margin-top: 0
+}
+
+.markdown>:last-child {
+  margin-bottom: 0
+}
+
+html:not(.mobile) .bg-color-black-on-hover:hover {
+  background-color: #181818
 }
 
 .openingstatement {
   font-size: 31px;
 }
 
+>>>>>>> a72dc4cf7d571064728ec56febdd6c8006c8b8ae
 .border-color-black {
   border-color: #181818
 }
