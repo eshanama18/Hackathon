@@ -4880,7 +4880,9 @@ html:not(.mobile) .bg-color-black-on-hover:hover {
         display: block
     }
 }
-
+.openingstatement{
+  font-size: 31px;
+}
 #menu-admin a,
 #menu-admin span {
     margin: 0 .5rem;
