@@ -3,8 +3,8 @@
 
 ## Change Log
 
--   Simple, easy to navigate, information - based
-    -   Only necessary resources (images, etc) included
+- Simple, easy to navigate, information - based
+    -  Only necessary resources (images, etc) included
     -   Minimal amount of text
     -   Large, eye - catching buttons with clear purposes
 -   Smooth User Experience
