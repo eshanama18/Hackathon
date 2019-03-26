@@ -966,9 +966,9 @@ preloader
   text-align: center
 }
 
-.collapse {
+/*.collapse {
   visibility: collapse
-}
+} */
 
 .max-width-small {
   max-width: 66rem
@@ -1267,7 +1267,7 @@ html body {
   overflow-y: scroll;
   overflow-x: hidden;
   color: #181818;
-  
+
 }
 
 html body::selection {
