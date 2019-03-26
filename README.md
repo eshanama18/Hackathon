@@ -45,28 +45,27 @@
 
 Process Overview:
 
-          *   Day 1:
-              -   Finding Template
-              -   Identified multiple potential templates to use
-              -   Narrowed choices down to three
-              -   Chose Colid-Colorlib because of simplicity (one page) and similarity to HackTJ Template
-          *   Day 2:
-              -   Created Wireframe
+          *Day 1:
+              -Finding Template
+              -Identified multiple potential templates to use
+              -Narrowed choices down to three
+              -Chose Colid-Colorlib because of simplicity (one page) and similarity to HackTJ Template
+          *Day 2:
+              -Created Wireframe
                   ![Wireframe Image](images/wireframe.PNG)
-              -   Altered template to fit basic structure of wireframe
-          *   Day 3:
+              -Altered template to fit basic structure of wireframe
+          *Day 3:
+              -Added FAQs
+              -Removed overlay from template and added aclrendering [cover page] image
+              -Deleted unused sections and gifs that greatly increased loading time
 
-              -   Added FAQs
-              -   Removed overlay from template and added aclrendering [cover page] image
-              -   Deleted unused sections and gifs that greatly increased loading time
-
-          *   Significant Challenges
-              -   Loading time, especially for resources such as images and gifs
-                  -   Used unusedcss.com to remove boilerplate css that was part of template, but was not used in final website
-                  -   This introduced some challenges in itself because the unusedcss removed important code, such as the navbar
-                  -   Overall useful; some small issues
-          *   Slow scrolling speed
-              -   Somewhat helped by
+          *Significant Challenges
+              -Loading time, especially for resources such as images and gifs
+                  -Used unusedcss.com to remove boilerplate css that was part of template, but was not used in final website
+                  -This introduced some challenges in itself because the unusedcss removed important code, such as the navbar
+                  -Overall useful; some small issues
+          *Slow scrolling speed
+              -Somewhat helped by
 
 
 
