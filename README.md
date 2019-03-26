@@ -1,6 +1,6 @@
 <h1 align="center">
         <br>
-        <a href="http://www.amitmerchant.com/electron-markdownify"><img src="images/hackslogo.PNG" alt="Academies Hacks Website Logo" width="200"></a>
+        <a href="https://colorlib.com/wp/template/colid/"><img src=images/hackslogo.PNG alt="Academies Hacks Website Logo" width="200"></a>
         <br>
         AcademiesHacks Hackathon Website
         <br>
