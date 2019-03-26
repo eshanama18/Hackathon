@@ -14,14 +14,15 @@
 
 ## Customer Requests
 
-- Simple, easy to navigate, information - based
-    -  Only necessary resources (images, etc) included
-    -   Minimal amount of text
-    -   Large, eye - catching buttons with clear purposes
--   Smooth User Experience
-    -   CSS minimized
-    -   Resource size minimized
-    -   Javascript placed at bottom
+- Make jumbotron background a picture of the AcademiesHacks
+- Have four call to action buttons
+    - Student, Mentor, Volunteer Sign Up and Registration information
+- AcademiesHacks logo in the upper left corner
+- Time and Date on the jumbotron
+- Pictures and Links to Sponsors
+- Descriptions of Workshops
+- Schedule
+- FAQ Section
 
 ## Current Status
 
