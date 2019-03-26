@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://colorlib.com/wp/template/colid/"><img src="https://i.imgur.com/09sup5P.png" alt="Colid Template" width="200"></a>
+  <a href="https://colorlib.com/wp/template/colid/"><img src="https://i.imgur.com/09sup5P.png" alt="Colid Template" width=100% height=200px></a>
   <br>
   AcademiesHacks Hackathon Website
   <br>
