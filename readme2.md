@@ -33,6 +33,6 @@
     - Specific information for mentors and volunteers
     - Fix margins and padding
 - Time needed to make changes:
-    - ?
+    - One week
 - Help needed to make changes:
     - None
