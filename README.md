@@ -26,8 +26,9 @@
     - added links to sign up forms
     - updated some workshop descriptions
     - removed useless CSS
-    - deleted unused sections of 
+    - deleted unused sections of website template
     - added time of AcademiesHacks to jumbotron
+    - made nav bar translucent
     - edited workshop descriptions
     - added links to sponsors
     - added link of website to README.md
