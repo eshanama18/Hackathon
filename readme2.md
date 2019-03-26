@@ -1,10 +1,10 @@
 <h1 align="center">
-      <br>
-      <a href="https://colorlib.com/wp/template/colid/"><img src="https://i.imgur.com/09sup5P.png" alt="Colid Template" width=100% height=auto></a>
-      <br>
-      AcademiesHacks Hackathon Website
-      <br>
-    </h1>
+    <br>
+    <a href="https://colorlib.com/wp/template/colid/"><img src="https://i.imgur.com/09sup5P.png" alt="Colid Template" width=100% height=auto></a>
+    <br>
+    AcademiesHacks Hackathon Website
+    <br>
+</h1>
 
     <h4 align="center">A minimal, single page hackathon website built on top of <a href="https://colorlib.com/wp/template/colid/" target="_blank">Colid</a>.</h4>
 
