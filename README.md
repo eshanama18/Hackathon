@@ -42,7 +42,8 @@
 * Day 2:
   - Created Wireframe
   - Altered template to fit basic structure of wireframe
-  - <p style:"font-weight:200px">Wireframe</p>:  ![Wireframe Image](images/wireframe.PNG)
+  - Wireframe
+   ![Image](images/wireframe.PNG)
 * Day 3:
   - Added FAQs
   - Removed overlay from template and added aclrendering [cover image for landing page]
