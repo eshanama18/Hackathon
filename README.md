@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#design-goals">Design Goals</a> •
   <a href="#process-overview">Process Overview</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -25,10 +25,11 @@
   - Only necessary resources (images, etc) included
   - Minimal amount of text
   - Large, eye - catching buttons with clear purposes
-* Smooth Scrolling
+* Smooth User Experience
   - CSS minimized
   - Resource size minimized
   - Javascript placed at bottom
+
 
 ## Process Overview
 
@@ -40,8 +41,8 @@
   - Chose Colid-Colorlib because of simplicity (single page) and similarity to HackTJ Template
 * Day 2:
   - Created Wireframe
-      ![Wireframe Image](images/wireframe.PNG)
   - Altered template to fit basic structure of wireframe
+  - <p style:"font-weight:200px">Wireframe</p>:  ![Wireframe Image](images/wireframe.PNG)
 * Day 3:
   - Added FAQs
   - Removed overlay from template and added aclrendering [cover image for landing page]
