@@ -3,14 +3,35 @@
 
 ## Change Log
 
-- Simple, easy to navigate, information - based
-    -  Only necessary resources (images, etc) included
-    -   Minimal amount of text
-    -   Large, eye - catching buttons with clear purposes
--   Smooth User Experience
-    -   CSS minimized
-    -   Resource size minimized
-    -   Javascript placed at bottom
+- 3-14-2019
+    - uploaded template
+    - added nav bar headings
+    - added FAQ questions
+    - added title to jumbotron
+- 3-20-2019
+    - created README.md
+    - deleted unnecessary parts of the template
+    - added AcademiesHacks logo
+    - added sponsor logos
+    - added schedule
+- 3-22-2019
+    - updated contact info
+    - updated schedule
+    - added nine workshops
+    - added workshop titles and graphics
+    - added new footer HTML and CSS
+    - deleted unused CSS
+    - deleted unused files
+- 3-25-2019
+    - added links to sign up forms
+    - updated some workshop descriptions
+    - removed useless CSS
+    - added time of AcademiesHacks to jumbotron
+    - edited workshop descriptions
+    - added links to sponsors
+    - added link of website to README.md
+    - added customer requests to README.md
+    - added current status to README.md
 
 ## Customer Requests
 
