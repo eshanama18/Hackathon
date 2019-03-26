@@ -28,6 +28,7 @@
 
 - Features to be completed:
     - Short, overall description of the Hackathon
+    - Finish descriptions of workshops
     - Answers to the FAQs
     - Registration information
     - Specific information for mentors and volunteers
