@@ -72,14 +72,14 @@
 <p>To install a new theme using SSH:</p>
 <ol>
     <li>Log in to the server via SSH as the user (not root, or you will run into permissions problems).</li>
-<code>
-    //Download the the theme package (usually a zip file) to the themes directory, unzip, and then remove the zip file when done.
 
-  [Haneefkhan@host /home/794013/public_html/wp-content/themes/] : wget http://wordpress.org/extend/themes/download/colid.1.2.1.zip
-  [Haneefkhan@host /home/794013/public_html/wp-content/themes/] : gunzip constructor.1.2.1.zip
-  [HaneefKhan@host /home/794013/public_html/wp-content/themes/] : rm colid.1.2.1.zip
-</code>
-
+    Download the the theme package (usually a zip file) to the themes directory, unzip, and then remove the zip file when done.</li>
+    <code>
+    <br/> [Haneefkhan@host /home/794013/public_html/wp-content/themes/] : wget http://wordpress.org/extend/themes/download/colid.1.2.1.zip
+    <br/> [Haneefkhan@host /home/794013/public_html/wp-content/themes/] : gunzip constructor.1.2.1.zip
+    <br/> [HaneefKhan@host /home/794013/public_html/wp-content/themes/] : rm colid.1.2.1.zip
+    <br/>
+     </code>
 
 
 </ol>
