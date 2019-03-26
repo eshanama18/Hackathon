@@ -89,6 +89,7 @@
 </ol>
 <p><strong>NOTE</strong>: You may have to clear your browser cache to see the change, even if there are no caching plugins installed.</p>
 *from <a href="liquidweb.com">From Liquid Web</a>
+
 ## Credits
 
 This software uses the following open source packages and softwares:
