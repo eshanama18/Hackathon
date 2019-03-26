@@ -54,7 +54,7 @@
 
 ## Prerequisites
 
-Install Bootstrap using Node Package Manager
+<b>Install Bootstrap using Node Package Manager</b>
 
 <figure class="highlight"><pre><code class="language-bash" data-lang="bash">npm install bootstrap@4.0.0-alpha.6</code></pre></figure>
 
@@ -65,9 +65,9 @@ Install Bootstrap using Node Package Manager
   <li><code class="highlighter-rouge">style</code> - path to Bootstrap’s non-minified CSS that’s been precompiled using the default settings (no customization)</li>
 </ul>
 
-\*<a href = bootstrapcdn.com> Bootstrap</a>
+*<a href = bootstrapcdn.com> From Bootstrap </a>
 
-Install Colid from Wordpress Command line
+<b>Install Colid from Wordpress Command line</b>
 
 <p>To install a new theme using SSH:</p>
 <ol>
