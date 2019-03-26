@@ -1267,7 +1267,7 @@ html body {
   overflow-y: scroll;
   overflow-x: hidden;
   color: #181818;
-  font-family: 'Sailec', 'Helvetica', 'Arial', sans-serif
+  
 }
 
 html body::selection {
