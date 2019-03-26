@@ -58,31 +58,14 @@ Process Overview:
   - Added FAQs
   - Removed overlay from template and added aclrendering [cover image for landing page]
   - Deleted unused sections and gifs that greatly increased landing time
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Challenges
+  - Loading time, especially for resources such as images and gifs
+    - Used unusedcss.com to remove boilerplate css that was part of template, but was not used in final website
+    - This introduced some challenges in itself because the unusedcss removed important code, such as the navbar
+    - Overall useful; some small issues
+* Slow Scrolling speed
+  - Somewhat helped by
 
-          *Day 3:
-              -Added FAQs
-              -Removed overlay from template and added aclrendering [cover page] image
-              -Deleted unused sections and gifs that greatly increased loading time
-
-          *Significant Challenges
-              -Loading time, especially for resources such as images and gifs
-                  -Used unusedcss.com to remove boilerplate css that was part of template, but was not used in final website
-                  -This introduced some challenges in itself because the unusedcss removed important code, such as the navbar
-                  -Overall useful; some small issues
-          *Slow scrolling speed
-              -Somewhat helped by
 
 
 
