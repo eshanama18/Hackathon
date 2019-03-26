@@ -1,6 +1,4 @@
-# Hackathon
-
-      <h1 align="center">
+<h1 align="center">
         <br>
         <a href="http://www.amitmerchant.com/electron-markdownify"><img src="images/hackslogo.PNG" alt="Academies Hacks Website Logo" width="200"></a>
         <br>
