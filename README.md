@@ -45,15 +45,32 @@
 
 Process Overview:
 
-          *Day 1:
-              -Finding Template
-              -Identified multiple potential templates to use
-              -Narrowed choices down to three
-              -Chose Colid-Colorlib because of simplicity (one page) and similarity to HackTJ Template
-          *Day 2:
-              -Created Wireframe
-                  ![Wireframe Image](images/wireframe.PNG)
-              -Altered template to fit basic structure of wireframe
+* Day 1:
+  - Finding template
+  - Identified multiple potential templates to uses
+  - Narrowed choices down to three
+  - Chose Colid-Colorlib because of simplicity (single page) and similarity to HackTJ Template
+* Day 2:
+  - Created Wireframe
+      ![Wireframe Image](images/wireframe.PNG)
+  - Altered template to fit basic structure of wireframe
+* Day 3:
+  - Added FAQs
+  - Removed overlay from template and added aclrendering [cover image for landing page]
+  - Deleted unused sections and gifs that greatly increased landing time
+* Syntax highlighting
+* [KaTeX](https://khan.github.io/KaTeX/) Support
+* Dark/Light mode
+* Toolbar for basic Markdown formatting
+* Supports multiple cursors
+* Save the Markdown preview as PDF
+* Emoji support in preview :tada:
+* App will keep alive in tray for quick usage
+* Full screen mode
+  - Write distraction free.
+* Cross platform
+  - Windows, macOS and Linux ready.
+
           *Day 3:
               -Added FAQs
               -Removed overlay from template and added aclrendering [cover page] image
