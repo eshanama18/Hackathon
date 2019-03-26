@@ -1,5 +1,5 @@
 ## Website Link
-<a href="https://eshanama18.github.io/Hackathon/" target="_blank">AcademiesHacks</a>
+<a href="https://eshanama18.github.io/Hackathon/" target="_blank">AcademiesHacks</a> (https://eshanama18.github.io/Hackathon/)
 
 ## Change Log
 
