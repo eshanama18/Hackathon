@@ -9,4 +9,4 @@
     - Narrowed choices down to three
     - Chose Colid-Colorlib because of simplicity (one page) and similarity to HackTJ Template
   - Day 2:
-    - Created Wireframe ![Wireframe Image](https://imgur.com/uStKsGm)
+    - Created Wireframe ![Wireframe Image](images/wireframe.PNG)
