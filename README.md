@@ -68,7 +68,6 @@ Install Bootstrap using Node Package Manager
 
 <figure class="highlight"><pre><code class="language-bash" data-lang="bash">npm install bootstrap@4.0.0-alpha.6</code></pre></figure>
 
-<p><code class="highlighter-rouge">require('bootstrap')</code> will load all of Bootstrap’s jQuery plugins onto the jQuery object. The <code class="highlighter-rouge">bootstrap</code> module itself does not export anything. You can manually load Bootstrap’s jQuery plugins individually by loading the <code class="highlighter-rouge">/js/*.js</code> files under the package’s top-level directory.</p>
 
 <p>Bootstrap’s <code class="highlighter-rouge">package.json</code> contains some additional metadata under the following keys:</p>
 
