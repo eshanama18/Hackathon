@@ -1,7 +1,7 @@
-#Website Link
-<a href="https://eshanama18.github.io/Hackathon/">AcademiesHacks</a>
+## Website Link
+<a href="https://eshanama18.github.io/Hackathon/" target="_blank">AcademiesHacks</a>
 
-## Change Log</a>
+## Change Log
 
 -   Simple, easy to navigate, information - based
     -   Only necessary resources (images, etc) included
@@ -14,8 +14,8 @@
 
 ## Customer Requests
 
-    -   Simple, easy to navigate, information - based
-        -   Only necessary resources (images, etc) included
+- Simple, easy to navigate, information - based
+        -  Only necessary resources (images, etc) included
         -   Minimal amount of text
         -   Large, eye - catching buttons with clear purposes
     -   Smooth User Experience
