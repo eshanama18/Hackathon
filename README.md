@@ -26,6 +26,7 @@
     - added links to sign up forms
     - updated some workshop descriptions
     - removed useless CSS
+    - deleted unused sections of 
     - added time of AcademiesHacks to jumbotron
     - edited workshop descriptions
     - added links to sponsors
