@@ -1,5 +1,22 @@
-## Website Link
-<a href="https://eshanama18.github.io/Hackathon/" target="_blank">AcademiesHacks</a> (https://eshanama18.github.io/Hackathon/)
+## Group Members
+Esha Nama and Haneef Khan
+
+## GitHub.io
+https://eshanama18.github.io/Hackathon/
+
+## Current Status
+
+- Features to be completed:
+    - Short, overall description of the Hackathon
+    - Finish descriptions of workshops
+    - Answers to the FAQs
+    - Registration information
+    - Specific information for mentors and volunteers
+    - Fix margins and padding
+- Time needed to make changes:
+    - Two classes
+- Help needed to make changes:
+    - None
 
 ## Change Log
 
@@ -46,17 +63,3 @@
 - Descriptions of Workshops
 - Schedule
 - FAQ Section
-
-## Current Status
-
-- Features to be completed:
-    - Short, overall description of the Hackathon
-    - Finish descriptions of workshops
-    - Answers to the FAQs
-    - Registration information
-    - Specific information for mentors and volunteers
-    - Fix margins and padding
-- Time needed to make changes:
-    - Two classes
-- Help needed to make changes:
-    - None
