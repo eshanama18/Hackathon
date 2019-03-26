@@ -1424,3 +1424,7 @@ html:not(.mobile) .color-light-grey-on-hover:hover {
 html:not(.mobile) .color-white-on-hover:hover {
   color: #fff
 }
+#apple, #sauce, #flex, #logical, #logic{
+  position: absolute;
+  z-index: 1000000000000000000000000000000000000000;
+}
