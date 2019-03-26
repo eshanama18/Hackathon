@@ -1,27 +1,14 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.amitmerchant.com/electron-markdownify"><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <a href="https://colorlib.com/wp/template/colid/"><img src="https://colorlib.com/wp/wp-content/uploads/sites/2/free-one-page-website-templates.jpg" alt="Colid Template" width="200"></a>
   <br>
-  Markdownify
+  AcademiesHacks Hackathon Website
   <br>
 </h1>
 
-<h4 align="center">A minimal Markdown Editor desktop app built on top of <a href="http://electron.atom.io" target="_blank">Electron</a>.</h4>
+<h4 align="center">A minimal, single page hackathon website built on top of <a href="https://colorlib.com/wp/template/colid/" target="_blank">Colid</a>.</h4>
 
-<p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
-  <a href="https://saythanks.io/to/amitmerchant1990">
-      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
-  </a>
-  <a href="https://www.paypal.me/AmitMerchant">
-    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
-  </a>
-</p>
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
@@ -56,9 +43,9 @@
 
 ## How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-```bash
+
+
 
 -   Process Overview:
 
@@ -85,7 +72,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
           -   Slow scrolling speed
               -   Somewhat helped by
 
-```
+
 
 Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
 
