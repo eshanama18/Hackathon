@@ -63,3 +63,7 @@ https://eshanama18.github.io/Hackathon/
 - Descriptions of Workshops
 - Schedule
 - FAQ Section
+- Student Sign Up button should be a different color from the others
+- Swap the order of the workshops and sponsors
+- Make the nav bar opaque
+- Use the new logo
