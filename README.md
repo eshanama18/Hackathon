@@ -8,11 +8,12 @@ https://eshanama18.github.io/Hackathon/
 
 - Features to be completed:
     - Short, overall description of the Hackathon
-    - Finish descriptions of workshops
-    - Answers to the FAQs
     - Registration information
     - Specific information for mentors and volunteers
     - Fix margins and padding
+    - Student Sign Up button should be a different color from the others
+    - Swap the order of the workshops and sponsors
+    - Make the nav bar opaque
 - Time needed to make changes:
     - Two classes
 - Help needed to make changes:
@@ -55,7 +56,7 @@ https://eshanama18.github.io/Hackathon/
     - deleted Java workshop
     - changed some workshop descriptions
     - replaced old logo with new logo
-    - 
+    - answered FAQs
 ## Customer Requests
 
 - Make jumbotron background a picture of the AcademiesHacks
