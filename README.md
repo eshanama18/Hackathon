@@ -51,7 +51,11 @@ https://eshanama18.github.io/Hackathon/
     - added link of website to README.md
     - added customer requests to README.md
     - added current status to README.md
-
+- 3-28-2019
+    - deleted Java workshop
+    - changed some workshop descriptions
+    - replaced old logo with new logo
+    - 
 ## Customer Requests
 
 - Make jumbotron background a picture of the AcademiesHacks
