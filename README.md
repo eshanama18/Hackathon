@@ -59,6 +59,7 @@ https://eshanama18.github.io/Hackathon/
     - answered FAQs
 - 4-2-2019
     - switched the order of sponsors and workshops
+    - made student registration button a different color
 
 ## Customer Requests
 
