@@ -11,8 +11,6 @@ https://eshanama18.github.io/Hackathon/
     - Registration information
     - Specific information for mentors and volunteers
     - Fix margins and padding
-    - Student Sign Up button should be a different color from the others
-    - Swap the order of the workshops and sponsors
     - Make the nav bar opaque
 - Time needed to make changes:
     - Two classes
