@@ -148,15 +148,26 @@ body {
   box-shadow: 2px 5px 20px -5px rgba(0, 0, 0, 0.1);
 }
 
-.button.white,
+.button.blue,
 .button:hover {
   background-color: #ffffff;
   color: #138fc2;
 }
 
-.button.white:hover {
+.button.blue:hover {
   background-color: #2f60c3;
   color: #ffffff;
+}
+
+.button.white,
+.button:hover {
+  background-color: #2f60c3;
+  color: #ffffff;
+}
+
+.button.white:hover {
+  background-color: #ffffff;
+  color: #138fc2;
 }
 
 /**

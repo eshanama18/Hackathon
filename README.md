@@ -57,6 +57,9 @@ https://eshanama18.github.io/Hackathon/
     - changed some workshop descriptions
     - replaced old logo with new logo
     - answered FAQs
+- 4-2-2019
+    - switched the order of sponsors and workshops
+
 ## Customer Requests
 
 - Make jumbotron background a picture of the AcademiesHacks
